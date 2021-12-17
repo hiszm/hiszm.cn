@@ -1,7 +1,6 @@
+# hiszm.cn
+🍈🍓🍇🍉 hi 孙中明 的主页 🍉🍇🍓🍈
 
+## Welcome
 
-hiszm.cn
-
-[![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
-
-
+https://github.com/hiszm/hiszm.cn.git
